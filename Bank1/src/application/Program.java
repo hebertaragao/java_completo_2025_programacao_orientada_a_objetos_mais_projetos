@@ -36,6 +36,17 @@ public class Program {
 			acc5.updateBalance();
 			System.out.println("Update!");
 		}
+		Account acc6 = new Account(1005, "Rob", 1000.0);
+		acc6.withdraw(200.0);
+		System.out.println(acc6.getBalance());
+		
+		Account acc7 = new SavingsAccount(1006, "Ken", 1000.0, 0.01);
+		acc7.withdraw(200.0);
+		System.out.println(acc7.getBalance());
+		
+		Account acc8 = new BusinessAccount(1007, "Ryu", 1000.0, 500.0);
+		acc8.withdraw(200.0);
+		System.out.println(acc8.getBalance());
 	}
 
 }
