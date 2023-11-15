@@ -1,3 +1,4 @@
+/bin/
 # Compiled class file
 *.class
 
@@ -21,19 +22,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
-/.metadata/
-/Area/nbproject/private/
-/Date1/nbproject/private/
-/Composition2/nbproject/private/
-/Bank1/nbproject/private/
-/Date3/nbproject/private/
-/Composition1/nbproject/private/
-/Constructor/nbproject/private/
-/TryCatch/nbproject/private/
-/Chess-system/nbproject/private/
-/Enumeracao/nbproject/private/
-/Date2/nbproject/private/
-/Bank/nbproject/private/
-/Date/nbproject/private/
-/Chess-system/build/
+
+# Eclipse
+.settings/
