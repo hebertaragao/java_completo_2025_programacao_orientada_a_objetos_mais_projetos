@@ -5,7 +5,7 @@ Esse repositório é para prática de exercícios
 
 
 
-# java_completo_2025_object-oriented_programming_more_projects
+# complete_java_2025_object-oriented_programming_more_projects
 Course taught by Professor Nélio Alves.
 Udemy
 This repository is for practice exercises.
