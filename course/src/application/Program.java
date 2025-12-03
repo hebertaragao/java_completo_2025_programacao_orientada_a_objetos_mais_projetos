@@ -20,7 +20,7 @@ public class Program {
 		product.price = scan.nextDouble();
 		System.out.println("Quantity in stock: ");
 		product.quantity = scan.nextInt();
-		
+		System.out.println(product);
 			
 
 		scan.close();
